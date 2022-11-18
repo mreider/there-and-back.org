@@ -14,7 +14,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: There and back
   description: "A family's writing and photography"
-  keywords: [Janet Reider, Matthew Reider, Deborah Green]
+  keywords: [Janet Reider, Matthew Reider, Deborah Green, Jenny Sampson, Charlotte Reider-Smith, Pete Reider]
   # author: ["Me", "You"] # multiple authors
   DateFormat: "January 2, 2006"
   defaultTheme: light # dark, light
