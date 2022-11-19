@@ -12,3 +12,5 @@ Pete wrote this for the back cover of his book Stepping Stones a few years befor
 The stories in his book are available below.
 
 Pete's obituary is at [www.legacy.com/us/obituaries/sfgate/name/arthur-reider-obituary?id=16690573](https://www.legacy.com/us/obituaries/sfgate/name/arthur-reider-obituary?id=16690573)
+
+---
