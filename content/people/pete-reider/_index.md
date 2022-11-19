@@ -9,6 +9,6 @@ These writings. produced in the last fifteen years, reflect the journey from wor
 
 Pete wrote this for the back cover of his book Stepping Stones a few years before his death on August 13, 2015.
 
-
+The stories in his book are available below.
 
 Pete's obituary is at [www.legacy.com/us/obituaries/sfgate/name/arthur-reider-obituary?id=16690573](https://www.legacy.com/us/obituaries/sfgate/name/arthur-reider-obituary?id=16690573)
