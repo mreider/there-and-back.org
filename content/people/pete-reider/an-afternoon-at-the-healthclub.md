@@ -1,5 +1,5 @@
 ---
-title: An afternoon at the health club
+title: An Afternoon at the Health Club
 date: "2011-04-28"
 ShowShareButtons: false
 weight: 70

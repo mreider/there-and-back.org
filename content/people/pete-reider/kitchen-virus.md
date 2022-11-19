@@ -1,5 +1,5 @@
 ---
-title: The kitchen virus
+title: The Kitchen Virus
 date: "2005-07-23"
 ShowShareButtons: false
 weight: 800

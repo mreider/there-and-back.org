@@ -1,5 +1,5 @@
 ---
-title: Time warp
+title: Time Warp
 date: "2013-03-02"
 ShowShareButtons: false
 weight: 115

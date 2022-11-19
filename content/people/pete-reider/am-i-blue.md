@@ -1,5 +1,5 @@
 ---
-title: Am I blue
+title: Am I Blue
 date: "2012-02-07"
 ShowShareButtons: false
 weight: 380

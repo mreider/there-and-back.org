@@ -1,5 +1,5 @@
 ---
-title: An exodus
+title: An Exodus
 date: "2007-11-08"
 ShowShareButtons: false
 weight: 300
