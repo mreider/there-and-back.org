@@ -1,6 +1,7 @@
 ---
 title: "Jenny Sampson"
 url: /people/jenny-sampson/
+ShowShareButtons: false
 weight: 7
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Janet Reider"
 url: /people/janet-reider/
+ShowShareButtons: false
 weight: 2
 ---
 

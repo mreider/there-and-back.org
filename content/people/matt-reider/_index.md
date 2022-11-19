@@ -1,6 +1,7 @@
 ---
 title: "Matt Reider"
 url: /people/matt-reider/
+ShowShareButtons: false
 weight: 10
 ---
 
